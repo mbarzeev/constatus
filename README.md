@@ -10,10 +10,14 @@ There are many ways to introduce Constants to JS, but the hard thing to do is to
 
 Getting Started
 ---------------
-1) Clone the repo
-2) Make sure you have node installed on you machine.
-3) Run 
+1. Clone the repo
+2. Make sure you have node installed on you machine.
+3. Run: 
+
 	npm install
-4) run the tool like so (sample configuration can be found on the conf directory):
+
+4. run the tool like so (sample configuration can be found on the conf directory):
+
 	node constatus.js <your configuration file>
-5) the results should appear swiftly
+
+5. the results should appear swiftly
