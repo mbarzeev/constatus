@@ -18,6 +18,6 @@ Getting Started
 
 4. run the tool like so (sample configuration can be found on the conf directory):
 
-	node constatus.js <your configuration file>
+	node constatus.js &lt;your configuration file&gt;
 
 5. the results should appear swiftly
