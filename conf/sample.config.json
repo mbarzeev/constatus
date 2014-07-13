@@ -1,0 +1,18 @@
+{
+	"location": "<The directory location you wish to inspect, only single directory at the moment>",
+
+	"constantsValues": [
+		"<Constant Value String>",
+		"<Constant Value String>",
+		"<Constant Value String>",
+		"<Constant Value String>"
+	],
+
+	"excludesFiles" : [
+		"<File name to be excluded>",
+		"<File name to be excluded>",
+		"<File name to be excluded>",
+		"<File name to be excluded>"
+	]
+}
+

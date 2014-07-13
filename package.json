@@ -1,0 +1,17 @@
+{
+  "name": "constatus",
+  "version": "0.0.0",
+  "description": "SCA for checking costants",
+  "main": "constatus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matti Bar-Zeev",
+  "license": "MIT",
+  "dependencies": {
+    "esprima": "~1.2.2",
+    "estraverse": "~1.5.0",
+    "fs-finder": "~1.8.0",
+    "cli-color": "~0.3.2"
+  }
+}
